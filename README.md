@@ -1,1 +1,3 @@
-# Language translation of English to German with the help of Encoder Decoder.
+# Language translation of English to German.
+
+Used Encoder-Decoder architecture.
